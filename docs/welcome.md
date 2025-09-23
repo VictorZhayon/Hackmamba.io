@@ -14,7 +14,7 @@ Protekt is a secure, developer-friendly authentication service that helps teams 
 - API key management
 - Multi-Factor Authentication (MFA)
 - OAuth2 login & Single Sign-On
-- Role-Based Access Control (RBAC)
+
 
 ## Who is this for?
 Protekt docs are designed for developers integrating authentication into their applications, and for product managers tracking adoption of security features.

@@ -9,7 +9,7 @@
 
 ### Step 1 – Install SDK
 ```bash
-    pip install protekt-sdk flask
+pip install protekt-sdk flask
 ```
 
 ### Step 2 – Initialize Protekt in Your Flask App
