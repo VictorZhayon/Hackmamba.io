@@ -1,6 +1,6 @@
 # Welcome to Protekt
 
-Protekt is a secure, developer-friendly authentication service that helps teams add modern identity features to their applications.
+Protekt is a secure authentication service for developers. It helps teams add modern identity features to their applications.
 
 ## Why Protekt?
 - Fast to Integrate: SDKs and REST APIs in popular languages.
