@@ -2,3 +2,6 @@ site_name: Hackmamba.io
 nav:
   - Intro Prose: welcome.md
   - Feature Guide: python-guide.md
+  - Project Plan: project-plan.md
+theme:
+  name: mkdocs

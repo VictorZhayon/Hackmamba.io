@@ -1,5 +1,5 @@
 # Quickstart: Integrating Protekt Authentication with Python (Flask)
-
+---
 ## Prerequisites
 - Python 3.9+ installed
 - A Protekt account + API key
